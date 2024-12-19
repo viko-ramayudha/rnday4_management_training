@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "uts": [
+    {
+      "nis": "0320200032",
+      "nama": "Viko Ramayudha",
+      "email": "viko@gmail.com",
+      "alamat": "Pasuruan, Jatim",
+      "id": "1"
+    },
+    {
+      "nis": "0320200033",
+      "nama": "Fathian",
+      "email": "fath@gmail.com",
+      "alamat": "Malang, Jatim",
+      "id": "2"
+    }
+  ]
+}
